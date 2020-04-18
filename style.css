@@ -1,0 +1,41 @@
+body {
+  background-color: #f7f7f7;
+}
+
+h1 {
+  font-family: 'Playfair Display SC', serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Playfair Display SC', serif;
+  font-weight: 400;
+  color: #005691;
+}
+
+img {
+  max-width: 45%;
+}
+
+a {
+  color: #004a7c;
+}
+
+a:hover {
+  color: #005691;
+}
+
+.contactInfo {
+  line-height: 15px;
+  color: #004a7c;
+}
+
+.jumbotron {
+  background-color: #e8f1f5;
+}
+
+
+.footer-copyright {
+  background-color: #e8f1f5;
+  color: #005691;
+}
